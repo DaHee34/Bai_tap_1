@@ -15,7 +15,6 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
-/* LEFT */
 .Left {
     width: 105px;
     height: 1100px;
@@ -44,13 +43,11 @@ body {
     width: 18px;
 }
 
-/* RIGHT */
 .Right {
     flex: 1;
     padding: 40px 100px;
 }
 
-/* HEADER */
 .Header-content {
     display: flex;
     align-items: center;
@@ -89,7 +86,6 @@ li:nth-child(even){
     gap: 20px;
 }
 
-/* MAIN */
 main {
     display: flex;
     justify-content: space-between;
@@ -97,12 +93,10 @@ main {
     align-items: center;
 }
 
-/* CỘT TRÁI */
 .Main-left {
     max-width: 520px;
 }
 
-/* TITLE */
 .Main-left h1 {
     line-height: 1;
 }
@@ -124,7 +118,6 @@ main {
     font-family: 'Fira Mono';
 }
 
-/* TEXT */
 .Main-left p {
     margin-top: 22px;
     font-size: 14px;
@@ -133,7 +126,6 @@ main {
     opacity: 0.1;
 }
 
-/* BUTTON – NẰM DẮC CHẮN DƯỚI P */
 .Main-button {
     margin-top: 32px;
     display: flex;
@@ -159,7 +151,6 @@ main {
     font-family: 'Fira Mono';
 }
 
-/* IMAGE */
 .Main-images img {
     width: 690.2686767578125;
     height: 855.180908203125;
